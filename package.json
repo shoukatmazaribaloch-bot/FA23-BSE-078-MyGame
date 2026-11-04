@@ -1,0 +1,13 @@
+{
+  "name": "type-arcade",
+  "version": "1.0.0",
+  "description": "Responsive Dual-Mode Typing Challenge Game",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  },
+  "keywords": ["game", "typing", "arcade"],
+  "author": "",
+  "license": "ISC"
+}
